@@ -21,7 +21,7 @@
 
   <!--Header 1 start-->
   <header id="header">
-    <h1>MENU</h1>
+  <h1></h1>
   </header>
 
 
